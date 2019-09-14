@@ -29,7 +29,8 @@ Delete credentials
 None
 ## Technologies Used:
 Python3.6
-Pyperclip
+Flask
+Bootstrap
 ## Contact Details:
 Email:eveish@gmail.com
 Phone number: 0788123450
