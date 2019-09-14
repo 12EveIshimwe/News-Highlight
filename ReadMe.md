@@ -19,7 +19,7 @@ Read an entire article
 2.Each article displays an image,title and description.
 3.Redirect to a page with a list of articles.
 4.Go to the newssite to read entire article.
-## Behavior Drive Development
+##Expectations
 1.The user will see news various news.
 2.The user will select the ones they prefer.
 3.The user see all new sources from the source they selected.
