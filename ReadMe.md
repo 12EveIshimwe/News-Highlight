@@ -20,7 +20,7 @@ Delete credentials
 2.Display credential
 3.Copy credential
 ## Behavior Drive Development
-1.The user will 
+1.The user will see news various news.
 2.The user will meet an about us for more information.
 3.The user has to see if the services he/she wants are delivered by this Studio in Services section.
 4.There is a segment of what we've done,you can compare to.
