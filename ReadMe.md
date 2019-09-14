@@ -6,25 +6,28 @@ ability to create a credential and save it. The delete will be done also through
 ## Installation Requirements
 None
 ## BDD
-Create a username
-Create password
-Create credential
-Save credentials
+Display news sources.
+Display articles from a news source.
+Display the preview of an article.
+Read an entire article
 Delete credentials
 ## Input
-1.The user will create a username and password
-2.The user will display created credentials
-3.The user will delete a user account.
+1.On page load,
+2.Click a news source.
+3.On page load,
+4.The user will delete a user account.
 ##Output
-1.Account and credential account
-2.Display credential
-3.Copy credential
+1.List of various news sources is displayed.
+2.Each article displays an image,title and description.
+3.Redirect to a page with a list of articles.
+4.Go to the newssite to read entire article.
 ## Behavior Drive Development
 1.The user will see news various news.
-2.The user will meet an about us for more information.
-3.The user has to see if the services he/she wants are delivered by this Studio in Services section.
-4.There is a segment of what we've done,you can compare to.
-5.For any comment,booking or any kind of message to our Studio,please fill the contact us page.
+2.The user will select the ones they prefer.
+3.The user see all new sources from the source they selected.
+4.The user will see image description.
+5.The user will see  image time the article has been created.
+6.For any comment,booking or any kind of message to our Studio,please fill the contact us page.
 ## Bugs:
 None
 ## Technologies Used:
