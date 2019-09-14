@@ -5,7 +5,7 @@ News Highlight is an application that shows all news and their sources from all 
 ## Installation Requirements
 None
 ## BDD
-Display news sources. jjjkklkjkkjjkj
+Display news sources. 
 Display articles from a news source.
 Display the preview of an article.
 Read an entire article
