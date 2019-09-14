@@ -11,7 +11,7 @@ class Config:
 
 
 class ProdConfig(Config):
-    pass
+    fail
 
 
 class DevConfig(Config):
