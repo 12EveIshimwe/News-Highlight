@@ -1,8 +1,7 @@
 ## News-Highlight
 Built By Eve Ishimwe
 ##Description
-Password locker is an application run into the terminal whereby the user will create a username and password,login into his/her account,
-ability to create a credential and save it. The delete will be done also throughout the app.
+News Highlight
 ## Installation Requirements
 None
 ## BDD
@@ -10,7 +9,6 @@ Display news sources.
 Display articles from a news source.
 Display the preview of an article.
 Read an entire article
-Delete credentials
 ## Input
 1.On page load,
 2.Click a news source.
