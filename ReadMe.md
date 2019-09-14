@@ -25,7 +25,7 @@ Read an entire article
 3.The user see all new sources from the source they selected.
 4.The user will see image description.
 5.The user will see  image time the article has been created.
-6.For any comment,booking or any kind of message to our Studio,please fill the contact us page.
+6.For any comment,booking or any kind of message to our Studio,please fill the contact us page. hhjj
 ## Bugs:
 None
 ## Technologies Used:
