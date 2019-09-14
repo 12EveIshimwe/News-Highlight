@@ -1,7 +1,7 @@
 ## News-Highlight
 Built By Eve Ishimwe
 ##Description
-News Highlight
+News Highlight is an application
 ## Installation Requirements
 None
 ## BDD
