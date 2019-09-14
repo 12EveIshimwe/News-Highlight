@@ -27,7 +27,7 @@ Read an entire article
 5.The user will see  image time the article has been created.
 6.For any comment,booking or any kind of message to our Studio,please fill the contact us page.
 ## Bugs:
-None
+hahas
 ## Technologies Used:
 Python3.6
 Flask
