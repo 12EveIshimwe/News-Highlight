@@ -3,7 +3,7 @@ Built By Eve Ishimwe
 ##Description
 News Highlight is an application that shows all news and their sources from all over the world. A user can click on news source. After clicking on the news article you will go to the  article's web page.
 ## Installation Requirements
-hey
+None
 ## BDD
 Display news sources.
 Display articles from a news source.
