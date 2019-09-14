@@ -14,4 +14,4 @@ class BasicsTestCase(unittest.TestCase):
         self.app_context.pop() 
 
     def test_app_exists(self):
-        self.assertFalse(current_app is zero)       
+        self.assertFalse(current_app is None)       
