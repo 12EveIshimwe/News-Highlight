@@ -11,11 +11,11 @@ class Config:
 
 
 class ProdConfig(Config):
-    fail
+    pass
 
 
 class DevConfig(Config):
-    DEBUG = True
+    DEBUG = false
 
 config_options = {
 'development':DevConfig,
