@@ -33,7 +33,7 @@ class ArticlesTest(unittest.TestCase):
         '''
         Set up method that will run before every Test
         '''
-        self.new_article = Articles('bbc','Peter Polle','The tech scene in Africa-Is it the next big thing?','A look at various tech hubs in Africa and the impact they have on the worlds economy','techie.com','techie.com/7643t94.jpg','2018-04-11T07:57:16Z')
+        self.new_article = Articles('CNN','Peter Polle','The tech scene in Africa-Is it the next big thing?','A look at various tech hubs in Africa and the impact they have on the worlds economy','techie.com','techie.com/7643t94.jpg','2018-04-11T07:57:16Z')
 
     def test_instance(self):
         self.assertTrue(isinstance(self.new_article,Articles))
