@@ -1,7 +1,7 @@
 ## News-Highlight
 Built By Eve Ishimwe
 ##Description
-News Highlight is an application that shows all news and their sources from all over the world. A user can click on news source. After clicking on the news article
+News Highlight is an application that shows all news and their sources from all over the world. A user can click on news source. After clicking on the news article you will
 ## Installation Requirements
 None
 ## BDD
