@@ -14,8 +14,8 @@ Display the preview of an article.
 Read an entire article
 
 ## Input
- 1.On page load,
- 2.Click a news source.
+* 1.On page load,
+* 2.Click a news source.
 3.On page load,
 4.The user will delete a user account.
 
