@@ -42,8 +42,8 @@ None
 * Bootstrap  
 
 ## Contact Details:
-Email:eveish@gmail.com
-Phone number: 07880001110
+* Email:eveish@gmail.com
+* Phone number: 07880001110
 
 ## License
 Copyright (c) 2019 Evelyne N. Ishimwe 
