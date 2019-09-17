@@ -37,9 +37,9 @@ Read an entire article
 None
 
 ## Technologies Used:
-Python3.6
-Flask 
-Bootstrap  
+* Python3.6
+* Flask 
+* Bootstrap  
 
 ## Contact Details:
 Email:eveish@gmail.com
