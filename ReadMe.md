@@ -1,7 +1,7 @@
 ## News-Highlight
 Built By Eve Ishimwe
 
-##Description
+## Description
 News Highlight is an application that shows all news and their sources from all over the world. A user can click on news source. After clicking on the news article you will go to the  article's web page.
 
 ## Installation Requirements
@@ -19,13 +19,13 @@ None
 * 3.On page load,
 * 4.The user will delete a user account.
 
-##Output
+## Output
 * 1.List of various news sources is displayed.
 * 2.Each article displays an image,title and description.
 * 3.Redirect to a page with a list of articles.
 * 4.Go to the newssite to read entire article.
 
-##Expectations
+## Expectations
 * 1.The user will see news various news.
 * 2.The user will select the ones they prefer.
 * 3.The user see all new sources from the source they selected.
